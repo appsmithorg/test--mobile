@@ -13,6 +13,11 @@
       "type": "AUTO"
     }
   },
+  "publishedApplicationDetail": {
+    "appPositioning": {
+      "type": "AUTO"
+    }
+  },
   "color": "#F5D1D1",
   "icon": "arrow-up",
   "unpublishedCustomJSLibs": [],
